@@ -1,0 +1,12 @@
+,Value Type,Description
+0,Alpha Acid % (AA),Alpha acids are the main source of bitterness in beer. Longer boil times will result in isomerization of more alpha acids leading to increased bitterness.  Learn more »
+1,Beta Acid %,Beta acids are a component of hop resins responsible for contributing volatile aromatic and flavor properties. Beta acids contribute no bitterness.
+2,Alpha-Beta Ratio,The ratio of alpha to beta acids dictates the degree to which bitterness fades during aging. 1:1 ratios are common in aroma varieties.
+3,Hop Storage Index (HSI),The HSI indicates the percent of alpha and beta acids lost after 6 months of storage at room temperature (68°F or 20°C).
+4,Co-Humulone as % of Alpha,Low cohumulone hops may impart a smoother bitterness when added to the boil as opposed to higher ones that add a sharper bitterness to the final beer. Learn more »
+5,Total Oils (mL/100g),"These highly volatile, not very soluble oils are easily boiled off, but add flavor and aroma to the finished beer when added very late in the boil or during fermentation. Learn more »"
+6,›  Myrcene,"Flavors: resinous, citrus, fruity (β-myrcene)"
+7,›  Humulene,"Flavors: woody, noble, spicy (α-caryophyllene)"
+8,›  Caryophyllene,"Flavors: pepper, woody, herbal (β-caryophyllene)"
+9,›  Farnesene,"Flavors: fresh, green, floral (β-farnesene)"
+10,›  All Others,"Including β-pinene, linalool, geranoil & selinene"
