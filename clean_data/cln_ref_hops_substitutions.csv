@@ -1,0 +1,215 @@
+Hop Name,Substitutions
+Adeena,"['Hallertau Mittelfruh', 'Styrian Golding']"
+Admiral,"['Target', 'Northdown', 'Challenger']"
+African Queen,"['Amarillo', 'Cascade', 'Simcoe', 'Citra', 'Mosaic']"
+Agnus,"['Magnum (US)', 'Nugget', 'Target', 'Columbus']"
+Ahtanum,"['Amarillo', 'Cascade', 'Centennial', 'Willamette']"
+Akoya,"['Perle (US)', 'Perle (GR)', 'Aurora', 'Hallertau Tradition', 'Northern Brewer (US)', 'Northern Brewer']"
+Altus,['Apollo']
+Amarillo,"['Cascade', 'Centennial', 'Chinook', 'Summer', 'Simcoe']"
+Apollo,"['Magnum (US)', 'Magnum (GR)', 'Columbus', 'Tomahawk', 'Zeus', 'CTZ', 'Nugget']"
+Aquila,"['Cluster', 'Galena']"
+Aramis,"['Willamette', 'Challenger', 'Ahtanum', 'Centennial', 'Strisselspalt', 'EKG', 'Saaz (US)', 'Hallertau Mittelfruh']"
+Ariana,"['Huell Melon', 'Mandarina Bavaria', 'Hallertau Blanc']"
+Aurora,"['Styrian Golding', 'Perle', 'Northern Brewer (US)', 'Northern Brewer (GR)']"
+Azacca,"['Amarillo', 'Citra', 'Delta', 'Pekko']"
+Banner,"['Aquila', 'Cluster', 'Galena']"
+Belma,"['Huell Melon', 'Pacific Gem']"
+Bergamot,['XJA2-436']
+Bianca,['Sunbeam']
+Bitter Gold,"['Galena', 'Nugget']"
+Boadicea,"['Green Bullet', 'Cascade', 'Chinook']"
+Bobek,"['Fuggle', 'Styrian Golding', 'Willamette']"
+Bramling Cross,"['East Kent Goldings', 'Bullion', 'Northern Brewer (US)', 'Northern Brewer (GR)', 'Galena']"
+Bravo,"['Columbus', 'Tomahawk', 'Zeus', 'CTZ', 'Zeus', 'Chinook', 'Centennial', 'Nugget']"
+Brewer's Gold (GR),"['Chinook', 'Galena', 'Nugget', ""Brewer's Gold (US)""]"
+Brewer's Gold (US),"['Galena', ""Brewer's Gold"", 'Chinook', 'Galena', 'Nugget']"
+Brooklyn,['Moutere']
+Bullion,"['Brewers Gold', 'Northern Brewer (US)', 'Northern Brewer (GR)', 'Galena', 'Bramling Cross', 'Mount Ranier']"
+Callista,"['Hallertau Tradition', 'Grungeist']"
+Calypso,"['Galena', 'Cascade', 'Huell Melon', 'Belma']"
+Canadian Redvine,"['Newport, Magnum, Galena, Cascade']"
+Cascade,"['Amarillo', 'Centennial', 'Ahtanum', 'Summit']"
+Cashmere,['Cascade']
+Cekin,"['Styrian Golding', 'Brewers Gold', 'Aurora']"
+Celeia,"['Styrian Golding', 'Bobek', 'Saaz (CZ)']"
+Centennial,"['Cascade', 'Chinook', 'Columbus', 'Tomahawk', 'Zeus', 'CTZ', 'Amarillo']"
+Challenger,"['Northern Brewer (US)', 'Northern Brewer (GR)', 'Perle (US)', 'Target', 'Northdown']"
+Chelan,"['Galena', 'Nugget']"
+Chinook,"['Nugget', 'Columbus', 'Tomahawk', 'Zeus', 'CTZ', 'Northern Brewer (US)', 'Galena']"
+Citra,"['Simcoe', 'Mosaic', 'Centennial', 'Cascade']"
+Cluster,"['Galena', 'Chinook', 'Eroica', 'Nugget']"
+Columbia,"['Centennial', 'Chinook']"
+Columbus,"['CTZ', 'Tomahawk', 'Zeus', 'Centennial', 'Chinook', 'Galena', 'Nugget', 'Millennium']"
+Comet,"['Galena', 'Citra']"
+Crystal,"['Mount Hood', 'Hersbrucker', 'Strisselspalt', 'Liberty', 'Ultra', 'Hallertau']"
+CTZ,"['Columbus', 'Tomahawk', 'Zeus']"
+Dana,"['Fuggle', 'Willamette']"
+Delta,"['Fuggle', 'Willamette', 'Cascade']"
+Dr. Rudi,['Green Bullet']
+East Kent Goldings,"['Golding', 'Fuggle', 'Willamette']"
+Ekuanot,"['Chinook', 'Summit', 'Galena', 'Cluster']"
+El Dorado,"['Citra', 'Nelson Sauvin', 'Rakau']"
+Ella,"['Perle (US)', 'Palisade', 'Galaxy']"
+Endeavour,"['Bramling Cross', 'Pilgrim']"
+Enigma,"['Nelson Sauvin', 'Hallertau Blanc']"
+Equinox,['Ekuanot']
+Eroica,"[""Brewer's Gold"", 'Chinook', 'Cluster', 'Galena', 'Nugget']"
+Eureka,"['Columbus', 'Tomahawk', 'Zeus', 'CTZ', 'Apollo', 'Merkur', 'Simcoe', 'Summit']"
+Falconer's Flight,"['Citra', 'Simcoe', 'Amarillo', 'Sorachi Ace', 'Summit', 'Cascade']"
+Falconer's Flight 7CS,"['CTZ', 'Centennial', 'Citra', 'Columbus', 'Chinook', 'Cluster', 'Cascade', 'Crystal']"
+First Gold,"['Whitbread Golding Variety', 'East Kent Golding', 'Willamette']"
+Flyer,"['Willamette, East Kent Goldings']"
+Fuggle,"['Willamette', 'Styrian Golding', 'East Kent Goldings']"
+Galaxy,"['Simcoe', 'Citra', 'Amarillo']"
+Galena,"[""Brewer's Gold"", 'Columbus', 'Tomahawk', 'Zeus', 'CTZ', 'Nugget']"
+Glacier,"['Fuggle', 'Styrian Golding', 'Willamette']"
+Godiva,"['Wai-iti', 'Hallertau Blanc']"
+Golden Star,['Fuggle']
+Golding,"['East Kent Golding', 'Fuggle', 'Willamette', 'Styrian Golding', 'Progress', 'Whitbread Golding Variety']"
+Green Bullet,"['Liberty', 'Hallertau', 'Mount Hood', 'Ultra', 'Crystal']"
+Grungeist,['Callista']
+Hallertau (US),"['Liberty', 'Mount Hood', 'Hallertau Mittelfruh', 'Crystal', 'Hallertau Tradition']"
+Hallertau Blanc,"['Nelson Sauvin', 'Enigma']"
+Hallertau Gold,"['Hallertau Mittelfruh', 'Tettnanger', 'East Kent Golding', 'Crystal', 'Mount Hood']"
+Hallertau Mittelfrüh,"['Hallertau', 'Liberty', 'Vanguard', 'Hallertau Tradition']"
+Hallertau Taurus,"['Magnum (GR), Magnum (US), Citra, Hallertau Tradition, Merkur, Herkules']"
+Hallertau Tradition,"['Hallertau Mittelfruh', 'Tettnanger', 'East Kent Golding', 'Crystal', 'Mount Hood']"
+Harlequin,['Mosaic']
+HBC 692,['Talus']
+Helga,"['Hallertau', 'Hallertau Mittelfruh']"
+Herald,"['Pioneer', 'Pilgrim']"
+Herkules,"['Taurus', 'Warrior']"
+Hersbrucker,"['Hallertau', 'Mount Hood', 'Liberty', 'Spalt']"
+Horizon,"['Magnum (US)', 'Magnum (GR)', 'Nugget']"
+Huell Melon,"['Belma', 'Jarrylo']"
+Idaho 7,"['Azacca', 'El Dorado', 'Cashmere', 'Citra', 'Idaho Gem', 'Amarillo', 'Chinook', 'Columbus']"
+Idaho Gem,"['Azacca', 'El Dorado', 'Cashmere', 'Citra', 'Idaho 7', 'Cascade']"
+Jarrylo,"['Motueka', 'Nelson Sauvin', 'Mosaic']"
+Jester,['Cascade']
+Junga,"['Nugget', 'Target', 'Galena']"
+Kazbek,['Saaz (CZ)']
+Kohatu,"['Wai-iti', 'Motueka']"
+Lambic,['Fuggle']
+Lemondrop,"['Cascade', 'Motueka', 'Liberty', 'Mandarina Bavaria', 'Centennial']"
+Liberty,"['Hallertau', 'Mount Hood', 'Crystal']"
+Loral,"['Glacier', 'Nugget', 'Strisselspalt', 'Tardif De Bourgogne']"
+Lubelska,"['Saaz (CZ)', 'Saaz (US)', 'Tettnang', 'Stirling']"
+Magnat,"['Magnum (GR)', 'Magnum (US)', 'Lubelski']"
+Magnum (GR),"['Magnum (US)', 'Nugget', 'Taurus', 'Columbus', 'Tomahawk', 'Zeus', 'CTZ']"
+Magnum (US),"['Galena', 'Magnum (GR)', 'Nugget', 'Columbus', 'Horizon', 'Northdown', 'Northern Brewer (US)']"
+Mandarina Bavaria,"['Cascade', 'Huell Melon', 'Lemondrop', 'Perle (US)']"
+Marco Polo,"['CTZ', 'Columbus', 'Tomahawk', 'Zeus']"
+Marynka,['Tettnanger']
+Medusa,['Zappa']
+Melba,['Galaxy']
+Meridian,"['Citra', 'Glacier', 'Centennial']"
+Merkur,"['Magnum (GR)', 'Magnum (US)', 'Hallertau Taurus', 'Hallertau Tradition']"
+Millennium,"['Nugget', 'Columbus', 'Tomahawk', 'Zeus', 'CTZ']"
+Minstrel,['Challenger']
+Mosaic,"['Citra', 'Simcoe']"
+Motueka,"['Saaz (US)', 'Sterling']"
+Mount Hood,"['Hallertau', 'Hersbrucker', 'Liberty', 'Crystal', 'Hallertau Mittelfruh']"
+Mount Rainier,"['Fuggle', 'Hallertau']"
+Multihead,['Medusa']
+Nectaron,"['Waimea', 'Citra', 'Mosaic']"
+Nelson Sauvin,"['Hallertau Blanc', 'Enigma', 'Motueka', 'Riwaka']"
+Newport,"[""Brewer's Gold"", 'Fuggle', 'Galena', 'Magnum (GR)', 'Magnum (US)', 'Nugget']"
+Northdown,"['Northern Brewer (US)', 'Northern Brewer (GR)', 'Target', 'Challenger', 'Admiral']"
+Northern Brewer (GR),"['Northern Brewer (US)', 'Brewers Gold', 'Chinook', 'Perle (US)', 'Perle (GR)']"
+Northern Brewer (US),"['Galena', 'Perle (US)', 'Magnum (GR)', 'Magnum (US)', 'Chinook', 'Northern Brewer (GR)']"
+Nugget,"['Galena', 'Magnum (US)', 'Columbus', 'Tomahawk', 'Zeus', 'CTZ']"
+Olympic,"['Brewers Gold', 'Chinook', 'Galena']"
+Omega,"['Super Galena', 'Challenger']"
+Opal,"['East Kent Golding', 'Styrian Golding', 'Tettnanger']"
+Orion,"['Northern Brewer (GR)', 'Perle (GR)', 'Challenger']"
+Pacific Crest,"['Saaz (US)', 'Saaz (CZ)', 'Fuggle', 'Tettnang']"
+Pacific Gem,"['Cluster', 'Magnum (GR)', 'Magnum (US)', 'Galena', 'Belma']"
+Pacific Jade,"['Hallertau', 'Saaz (CZ)', 'Cluster']"
+Pacific Sunrise,['Pacific Gem']
+Pacifica,['Hallertau']
+Palisade,"['Willamette', 'Glacier']"
+Paradigm,"['Saaz', 'Mosaic', 'Citra', 'Galaxy']"
+Pekko,"['Saaz (CZ)', 'Azacca']"
+Perle (GR),"['Northern Brewer (US)', 'Northern Brewer (GR)', 'Perle (US)']"
+Perle (US),"['Perle (GR)', 'Northern Brewer (US)', 'Northern Brewer (GR)', 'Cluster', 'Galena']"
+Phoenix,"['UK Challenger', 'UK Northdown']"
+Pilgrim,"['Challenger', 'Pioneer', 'Challenger']"
+Pilot,['Galena']
+Pioneer,"['Yeoman', 'Herald', 'Omega']"
+Polaris,['Herkules']
+Premiant,"['Styrian Golding', 'Saaz (CZ)']"
+Pride of Ringwood,"['Centennial', 'Galena', 'Cluster']"
+Progress,"['Golding', 'Fuggle']"
+Rakau,"['Amarillo', 'Summit']"
+Relax,['Monroe']
+Riwaka,"['Saaz (CZ), Citra, Calypso, Centennial, Motueka']"
+Saaz (CZ),"['Polish Lublin', 'Saaz (US)', 'Sterling', 'Tettnang']"
+Saaz (US),"['Saaz (CZ)', 'Polish Lublin', 'Sterling', 'Tettnang', 'Sorachi Ace']"
+Saaz Late,"['Saaz (CZ)', 'Saaz (US)']"
+Santiam,"['Citra', 'Spalt', 'Spalter Select', 'Tettnang']"
+Saphir,"['Hallertau Mittelfruh', 'Hallertau', 'Spalter Select']"
+Satus,"['Nugget', 'Galena']"
+Simcoe,"['Summit', 'Magnum (US)', 'Amarillo', 'Mosaic', 'Cascade', 'Centennial', 'Citra', 'Columbus']"
+Sládek,"['Saaz (CZ)', 'Saaz (US)', 'Northern Brewer (GR)', 'Northern Brewer (US)']"
+Smaragd,"['Hallertau Mittelfruh', 'Opal']"
+Smooth Cone,['Cluster']
+Sonnet,"['East Kent Golding, Hersbrucker, Crystal, Saaz (CH)', 'Saaz (US)']"
+Sorachi Ace,['Southern Cross']
+Southern Aroma,['Motueka']
+Southern Brewer,"['Southern Promise', 'Fuggle']"
+Southern Cross,['Sorachi Ace']
+Southern Promise,['Southern Brewer']
+Southern Star,"['Mosaic', 'Ekuanot', 'El Dorado', 'Mandarina Bavaria', 'Southern Cross', 'Warrior']"
+Sovereign,['Fuggle']
+Spalt,"['Saaz (CZ)', 'Tettnang', 'Ultra', 'Tettnanger', 'Santiam', 'Liberty', 'Hallertau ']"
+Spalter Select,"['Tettnanger', 'Saaz (CZ)', 'Spalt', 'Perle (GR)', 'Hallertau Tradition']"
+Sterling,"['Saaz (US)', 'Mount Hood']"
+Sticklebract,"['Northern Brewer (GR)', 'Hersbrucker', 'Hallertau', 'Sorachi Ace', 'Simcoe']"
+Strata,"['Galaxy', 'Mosaic']"
+Strisselspalt,"['Crystal', 'Hersbrucker', 'Mount Hood, Liberty, Hallertau']"
+Styrian Golding,"['Fuggle', 'Willamette', 'Bobek']"
+Sultana (Denali),"['Columbus', 'Tomahawk', 'Zeus', 'CTZ', 'Nugget']"
+Summer,"['Palisade', 'Saaz (US)']"
+Summit,"['Columbus', 'Tomahawk', 'Zeus', 'CTZ', 'Warrior', 'Millennium', 'Simcoe', 'Amarillo', 'Cascade']"
+Sun,"['Magnum (GR)', 'Magnum (US)', 'Galena', 'Zeus']"
+Super Galena,"['Galena', 'Nugget', 'Cluster', 'Chinook']"
+Super Pride,['Pride of Ringwood']
+Sussex,"['Progress', 'Whitbread Golding Variety', 'Fuggle']"
+Sybilla,"['Perle (US)', 'Perle (GR)', 'Northern Brewer (US)', 'Northern Brewer (GR)', 'Magnum (GR)', 'Magnum (US)', 'Nugget', 'Bobek', 'Lubelski']"
+Sylva,"['Hallertau Mittelfruh', 'Helga', 'Saaz (US)', 'Northern Brewer (US)']"
+Tahoma,['Glacier']
+Talus,['Sabro']
+Tardif de Bourgogne,['Strisselspalt']
+Target,"['Fuggle', 'Willamette']"
+Teamaker,['Crystal']
+Tettnang (US),"['Tettnanger', 'Fuggle', 'Santiam', 'Spalter Select', 'Spalt']"
+Tettnanger,"['Tettnang (US)', 'Spalter Select', 'Spalt', 'Saaz (GR)', 'Lubelski']"
+Tillicum,"['Galena, Chelan']"
+Tomahawk,"['Columbus', 'CTZ', 'Zeus', 'Centennial', 'Chinook', 'Galena', 'Nugget', 'Millennium']"
+Topaz,"['Galaxy', 'Citra', 'Cascade', 'Riwaka', 'Rakau', 'Amarillo']"
+TriplePearl,['Perle (US)']
+Triskel,"['Strisselspalt', 'Ahtanum', 'Centennial', 'Chinook', 'Simcoe']"
+Triumph,"['Nugget', 'Halllertau']"
+Tsingdao Flower,['Cluster']
+Ultra,"['Hallertau', 'Crystal', 'Liberty', 'Mount Hood', 'Saaz (US)', 'Tettnanger']"
+Vanguard,"['Hallertau', 'Hersbrucker', 'Mount Hood', 'Liberty']"
+Vic Secret,['Galaxy']
+Vienna Gold,['Cluster']
+Wai-iti,['Riwaka']
+Waimea,['Pacific Jade']
+Wakatu,"['Hallertau Mittelfruh', 'Nelson Sauvin']"
+Warrior,"['Columbus', 'Tomahawk', 'Zeus', 'CTZ', 'Nugget', 'Magnum (GR)', 'Magnum (US)', 'Summit']"
+Whitbread Golding Variety (WGV),['Fuggle']
+Wild Loyalist,"['Saaz (US)', 'Styrian Golding']"
+Willamette,"['Glacier', 'Fuggle', 'Tettnang (US)', 'Styrian Golding', 'East Kent Golding']"
+Wurttemberg,['Tettnanger']
+XJA2/436,"['Simcoe', 'Centennial', 'Bergamot']"
+Yakima Cluster,"['Chinook', 'Cluster']"
+Yakima Gold,['Cluster']
+Yellow Sub,['Amarillo']
+Yeoman,['Target']
+Zagrava,"['Saaz (US)', 'Tettnanger', 'Lubelski', 'Spalter Select']"
+Zenith,"['Yeoman', 'Northern Brewer (US)']"
+Zeus,"['Columbus', 'Tomahawk', 'Zeus', 'CTZ', 'Centennial', 'Chinook', 'Galena', 'Nugget', 'Millennium']"
+Zythos,"['Amarillo', 'Cascade', 'Simcoe']"
