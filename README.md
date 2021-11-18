@@ -39,20 +39,19 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prereqs">Prerequisite Installations</a></li>
-        <li><a href="#repoclone">Repository Cloning</a></li>
-        <li><a href="#envsetup">Environment Setup</a></li>
+        <li><a>Prerequisite Installations</a></li>
+        <li><a>Repository Cloning</a></li>
+        <li><a>Environment Setup</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
       <ul>
-        <li><a href="#scraper">Scraper</a></li>
-        <li><a href="#cleaner">Cleaner</a></li>
-        <li><a href="#eda">EDA</a></li>
-        <li><a href="#classifier">Classifier</a></li>
-        <li><a href="#analyer">Analyzer</a></li>
+        <li><a>Scraper</a></li>
+        <li><a>Cleaner</a></li>
+        <li><a>EDA</a></li>
+        <li><a>Classifier</a></li>
+        <li><a>Analyzer</a></li>
       </ul>
-    </li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -69,10 +68,10 @@ Every branded hop variety has a unique flavor and aroma profile.
 This makes for an exciting and delicious reason to explore what flavor and aroma a hop can offer on its own, or together with other hops to bring waves and layers of flavor and aromas. 
 
 The purpose of this project is to build a processed dataset to explore some definitive hop characteristics, draw initial insights into geographical relationships between hops, and lay the groundwork for further model-building in future studies. 
-The first step was to compile a comprehensive dataset that consists of these characteristics, consisting of both numeric brew values, as well as an aroma profile for each hop.
+The first step was to compile a comprehensive dataset that consists of these characteristics, with both numeric brew values, as well as an aroma profile for each hop.
 This was achieved through scraping BeerMaverick's database of a diverse set of 300+ hops from around the world. 
 This raw data was thoroughly processed for exploratory studies, and feature-engineered to create insightful visualizations & prepare for initial model-building.
-Using a supervised extreme-gradient boosting algorithm, this preliminary model was built for a deeper look into classification techniques for beer hops.
+Using a supervised tree-based ensemble methods (XG-Boost & Random Forest), these preliminary models were built for a deeper look into classification techniques of beer hops.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -81,7 +80,7 @@ Using a supervised extreme-gradient boosting algorithm, this preliminary model w
 
 ## Getting Started
 
-Steps to download a local copy of the project and reproduce the findings are outlined below.
+This section walks through the steps to download a local copy of the project and reproduce the findings.
 
 ### Prerequisites
 
@@ -133,7 +132,7 @@ https://medium.com/@blessedmarcel1/how-to-install-jupyter-notebook-on-mac-using-
 
 ## Usage
 
-This section outlines the order to execute iPython scripts to retrieve & clean the necessary data, generate visuals, perform analysis, and build a basic classification model.
+This section outlines the order to execute iPython scripts to retrieve & clean the necessary data, generate visuals, perform analysis, and build basic classification models.
 <br/> <br/>
 
 1. Execute ```step1_scraper.ipynb``` to collect the info from BeerMaverick's Hops Database.
@@ -158,26 +157,26 @@ The ```clean_data``` directory consists of the following ```csv``` files:
     - ```cln_ref_hops_substitutions.csv```: processed reference document for metadata info on pre-determined hop substitutions
 <br/> <br/> <br/>
 
-3. Execute ```step3_eda.ipynb``` which uses the processed data files from ```clean_data``` to perform exploratory analysis, generate insightful visualizations, and gain clarity for further study.
+3. Execute ```eda_and_summary_visuals.ipynb``` which uses the processed data files from ```clean_data``` to perform exploratory analysis, develop insights into our dataset, and provide summary visualizations that present the data.
 <br/> <br/>
-The ```eda_visuals``` directory generated from execution will consist of the following ```png``` files:
-    - ```.png```: 
-    - ```.png```: 
-    - ```.png```: 
-    - ```.png```: 
-    - ```.png```:
+The ```images``` directory generated from execution will consist of all the ```png``` output files from our script.
 <br/> <br/> <br/>
 
-4. Execute ```step4_classifier.ipynb``` to build a basic tree-based ensemble model using XG-Boost classification algorithm.
-<br/> In this step, we attempt to classify geographical regions based on various hop characteristics. 
+4. Execute ```region_classifier.ipynb``` to construct two tree-based ensemble models using XG-Boost & Random Forest classification algorithms to classify hop region.
+<br/> <br/>
+In this script, we attempt to classify geographical regions based on various hop characteristics.
 The processed data from ```clean_data``` undergoes further feature-engineering to prepare to be fed into a model that can carry out this task. This script is self-contained and will consist of the resulting confusion matrix from the model predictions.
+<br/><br/>
+Additionally, a tool was also built to take in input data of various hop characteristics from the user, and execute the classifier model to predict the correct region to which the hop belongs.
 <br/> <br/> <br/>
 
-5. Execute ```step5_analyzer.ipynb``` to generate a compiled summary of analyses and explanatory visualizations that give insight into the hops characteristics.
-The ```summary_visuals``` directory generated from execution will consist of the following ```png``` files:
-    - ```.png```: 
-    - ```.png```: 
-    - ```.png```: 
+5. Execute ```purpose_classifier.ipynb``` to construct two tree-based ensemble models using XG-Boost & Random Forest classification algorithms to classify hop purpose.
+<br/> <br/>
+In this script, we attempt to classify hop purpose (Dual vs Aroma vs Bittering) based on various hop characteristics.
+The processed data from ```clean_data``` undergoes further feature-engineering to prepare to be fed into a model that can carry out this task. This script is self-contained and will consist of the resulting confusion matrix from the model predictions.
+<br/><br/>
+Additionally, a tool was also built to take in input data of various hop characteristics from the user, and execute the classifier model to predict the correct purpose of the hop.
+<br/> <br/> <br/>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
