@@ -1,4 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 
 [![alt_text](https://vinepair.com/wp-content/uploads/2015/08/hops-and-beer-social.jpg)](https://vinepair.com/wp-content/uploads/2015/08/hops-and-beer-social.jpg)
@@ -204,8 +203,6 @@ Additionally, a tool was also built to take in input data of various hop charact
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/rc-9/tools1_project.svg?style=for-the-badge
-[contributors-url]: https://github.com/rc-9/tools1_project/graphs/contributors
 [issues-shield]: https://img.shields.io/github/issues/rc-9/tools1_project.svg?style=for-the-badge
 [issues-url]: https://github.com/rc-9/tools1_project/issues
 
